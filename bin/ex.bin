@@ -1,0 +1,7 @@
+<?php
+
+$tanker = shell_exec($tanker_cm);
+
+//echo($tanker);
+
+?>
